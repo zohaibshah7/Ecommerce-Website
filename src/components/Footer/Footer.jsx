@@ -116,7 +116,7 @@ const Footer = () => {
                 </div>
                 <div className="flex items-center gap-3 mt-3">
                   <IoCall />
-                  <p>+92 3192353871</p>
+                  <p>+92 319 2353871</p>
                 </div>
               </div>
             </div>

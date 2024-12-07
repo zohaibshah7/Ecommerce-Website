@@ -4,7 +4,7 @@ import Slider from "react-slick";
 const TestimonialData = [
   {
     id: 1,
-    name: "Victor",
+    name: "Obaid",
     text: "I recently purchased this product, and I must say, it exceeded my expectations.The quality is top-notch, and I can feel the attention to detail in its design. It's been a game-changer in my daily routine, I highly recommend it to anyone considering a purchase!",
     img: "https://picsum.photos/101/101",
   },
